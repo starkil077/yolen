@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">PulsePlayer</string>
+    <string name="tab_all">الكل</string>
+    <string name="tab_audio">موسيقى وصوتيات</string>
+    <string name="tab_video">فيديوهات</string>
+    <string name="tab_playlists">قوائم التشغيل</string>
+    <string name="tab_queue">طابور التشغيل</string>
+    
+    <string name="search_hint">ابحث عن أغنية، فيديو أو فنان...</string>
+    <string name="now_playing">قيد التشغيل الآن</string>
+    <string name="queue_title">طابور التشغيل الحالي</string>
+    <string name="queue_empty">طابور التشغيل فارغ، اختر مقاطع للتشغيل</string>
+    <string name="queue_count">%1$d مقاطع في الطابور</string>
+    <string name="play_next">تشغيل التالي</string>
+    <string name="add_to_queue">إضافة لطابور التشغيل</string>
+    <string name="add_to_playlist">إضافة لقائمة تشغيل</string>
+    <string name="remove_from_queue">إزالة من الطابور</string>
+    <string name="clear_queue">تفريغ الطابور</string>
+    
+    <string name="create_playlist">إنشاء قائمة تشغيل جديدة</string>
+    <string name="playlist_name_hint">اسم قائمة التشغيل (مثال: نغمات هادئة)</string>
+    <string name="create">إنشاء</string>
+    <string name="cancel">إلغاء</string>
+    <string name="save">حفظ</string>
+    <string name="delete">حذف</string>
+    <string name="empty_playlists">لا توجد قوائم تشغيل حتى الآن. أنشئ قائمتك الأولى!</string>
+    <string name="open_local_file">فتح ملف من الجهاز</string>
+    <string name="add_stream_url">إضافة رابط مباشر</string>
+    <string name="stream_url_hint">أدخل رابط البث (MP3 / MP4 / HLS...)</string>
+    <string name="stream_title_hint">عنوان المقطع (اختياري)</string>
+    <string name="play">تشغيل</string>
+    <string name="pause">إيقاف مؤقت</string>
+    <string name="previous">السابق</string>
+    <string name="next">التالي</string>
+    <string name="rewind_10">رجوع 10 ثواني</string>
+    <string name="forward_10">تقديم 10 ثواني</string>
+    <string name="shuffle">خلط عشوائي</string>
+    <string name="repeat">تكرار</string>
+    <string name="speed">السرعة</string>
+    <string name="equalizer">معدّل الصوت</string>
+    <string name="sleep_timer">مؤقت النوم</string>
+    <string name="fullscreen">ملء الشاشة</string>
+    <string name="aspect_ratio">نسبة العرض</string>
+    <string name="fit">احتواء</string>
+    <string name="zoom">تكبير</string>
+    <string name="fill">تمديد</string>
+    <string name="sound_effects">مؤثرات الصوت</string>
+    <string name="bass_boost">تعزيز البيس (Bass Boost)</string>
+    <string name="vocal_boost">إبراز الأصوات</string>
+    <string name="rock_preset">روك</string>
+    <string name="electronic_preset">إلكتروني</string>
+    <string name="flat_preset">افتراضي</string>
+</resources>

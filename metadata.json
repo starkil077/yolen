@@ -1,0 +1,6 @@
+{
+  "name": "PulsePlayer",
+  "description": "مشغل موسيقى وفيديو احترافي وقوي مع قوائم تشغيل مخصصة، وإدارة طابور المقاطع، ومؤثرات بصرية وتجربة وسائط متكاملة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
